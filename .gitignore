@@ -65,3 +65,6 @@ $RECYCLE.BIN/
 # 親ディレクトリとして、子ディレクトリのfrontendとbackendを除外する
 frontend
 backend
+
+# 元資料はgitで管理せず、個別に共有する
+docs/materials/
